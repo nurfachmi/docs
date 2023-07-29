@@ -1,5 +1,7 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bb6dbab-19d5-4e4e-9a72-5668da0d54fa/deploy-status)](https://app.netlify.com/sites/nurfachmi-docs/deploys)
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
